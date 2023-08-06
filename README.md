@@ -14,17 +14,19 @@ PSAT31th_Summer_Seminar_Team1
 │
 ├─Model
 │  ├─DeepLearning
+│  │  │  AutoEncoder.ipynb
 │  │  │  MLP.ipynb
 │  │  │  TabNetClassifier.ipynb
 │  │  │  TabNetClassifier_self_pretrain.ipynb
-│  │  │
+│  │  │  
 │  │  └─NeuralObliviousDecisionTree
 │  ├─MachineLearning
+│  │      CatBoost.ipynb
 │  │      IsolationForest.ipynb
 │  │      LGBMClassifier.ipynb
 │  │      RandomForetClassifier.ipynb
 │  │      XGBoostClassifier.ipynb
-│  │
+│  │      
 │  └─utils
 │          score.ipynb
 │          seed.ipynb
