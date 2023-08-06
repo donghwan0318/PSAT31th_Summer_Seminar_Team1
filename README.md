@@ -1,4 +1,4 @@
-# PSAT31th_Summer_Seminar_Team1
+```bash
 ├─EDA
 │  ├─NormalityTest
 │  │      AndersonDarling_Test.ipynb
@@ -29,3 +29,4 @@
             Drop_MissingValue.ipynb
             KNN_Imputation.ipynb
             mice
+```
