@@ -1,5 +1,13 @@
+## About project
+Predicting 0 or 1 from masked data(No information is available about the variables except for data types).
+
+## Team members
+- 이정환, 김동환, 성준혁, 하희나, 이지원, 노정아
+
+## Index
 ```bash
 PSAT31th_Summer_Seminar_Team1
+
 ├─EDA
 │  ├─NormalityTest
 │  │      AndersonDarling_Test.ipynb
